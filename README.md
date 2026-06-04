@@ -49,42 +49,14 @@
 
 ## 🚀 Featured Projects
 
+### 📇 Smart Contact Manager
+Secure contact management application built with Spring Boot, Spring Security, Thymeleaf, and MySQL, featuring user authentication and contact management.
+
 ### 📄 Docans
 AI-powered document analysis platform using FastAPI, React, Gemini AI, Qdrant, and Ollama. Supports document summarization, semantic search, and contextual question answering through Retrieval-Augmented Generation (RAG).
 
 ### 🏥 Hospital Management System
 REST API-based solution built using Java, Spring Boot, Hibernate, and MySQL for handling medical records and billing operations.
-
-### 📇 Smart Contact Manager
-Secure contact management application built with Spring Boot, Spring Security, Thymeleaf, and MySQL, featuring user authentication and contact management.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUJALPANDEY09&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUJALPANDEY09&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUJALPANDEY09&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUJALPANDEY09&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
