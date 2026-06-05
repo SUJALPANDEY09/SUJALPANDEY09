@@ -5,11 +5,14 @@
   <a href="https://www.linkedin.com/in/sujal-pandey-sp9p30/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/sujal_pandey.09/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+   <a href="https://codolio.com/profile/SUJALPANDEY09">
+    <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/u/SUJALPANDEY09/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.instagram.com/sujal_pandey.09/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -63,6 +66,7 @@ REST API-based solution built using Java, Spring Boot, Hibernate, and MySQL for 
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sujal-pandey-sp9p30/
+- Codolio: https://codolio.com/profile/SUJALPANDEY09
 - LeetCode: https://leetcode.com/u/SUJALPANDEY09/
 - Instagram: https://www.instagram.com/sujal_pandey.09/
 - GitHub: https://github.com/SUJALPANDEY09
@@ -71,4 +75,3 @@ REST API-based solution built using Java, Spring Boot, Hibernate, and MySQL for 
 
 ⭐ From [SUJALPANDEY09](https://github.com/SUJALPANDEY09)
 
-add codolio and if u can give chart like u give for leetcode will be best
