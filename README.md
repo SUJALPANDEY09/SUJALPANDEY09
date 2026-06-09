@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal Pandey</h1>
+<h1 align="center">Hi 👋, I'm Sujal Sanat Pandey</h1>
 <h3 align="center">Aspiring Software Engineer | Java Developer | AI/ML Student | DSA Enthusiast</h3>
 
 <p align="center">
